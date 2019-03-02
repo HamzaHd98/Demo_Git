@@ -1,2 +1,2 @@
 # Demo_Git
-A git demo
+A git demo that goes smoothly.
